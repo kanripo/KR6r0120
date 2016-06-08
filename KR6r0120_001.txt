@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:20.774013
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:20
 #+TITLE: 北魏僧惠生使西域記
 #+PROPERTY: CBETA_ID T51n2086
 #+PROPERTY: ID KR6r0120
