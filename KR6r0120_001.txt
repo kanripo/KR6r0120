@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:20.774013
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:20
 #+TITLE: 北魏僧惠生使西域記
 #+PROPERTY: CBETA_ID T51n2086
 #+PROPERTY: ID KR6r0120
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2086
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0120_T_000-0866c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0120_T_001-0866c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2086¶
-
- 北魏僧惠生使西域記¶
+No. 2086¶
+北魏僧惠生使西域記¶
 ¶
 
 魏神龜元年十一月冬。大后遣崇立寺比邱¶
